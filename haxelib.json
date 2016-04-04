@@ -3,7 +3,7 @@
   "url": "https://github.com/proletariatgames/hxnodejs-dynamodb-data-types",
   "license": "MIT",
   "classPath": "src",
-  "tags": ["nodejs", "aws", "dynamodb"],
+  "tags": ["nodejs", "hxnodejs", "aws", "dynamodb"],
   "description": "Externs for the dynamodb-data-types NPM module",
   "releasenote": "Initial release",
   "version": "2.1.0-alpha",
