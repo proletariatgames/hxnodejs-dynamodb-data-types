@@ -6,8 +6,8 @@
   "tags": ["nodejs", "hxnodejs", "aws", "dynamodb"],
   "description": "Externs for the dynamodb-data-types NPM module",
   "releasenote": "Initial release",
-  "version": "2.1.0-alpha",
-  "contributors": ["Proletariat", "lpetre", "danogles", "waneck"],
+  "version": "2.1.1",
+  "contributors": ["Proletariat", "ProletariatDev1"],
   "dependencies": {
     "hxnodejs": ""
   }
